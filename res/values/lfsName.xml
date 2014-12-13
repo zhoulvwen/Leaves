@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="lfsNameArray">
+        <item>未知</item>
+        <item>未知</item>
+        <item>未知</item>
+　　                   <item>未知</item>
+　　                   <item>未知</item>
+        <item>银杏</item>
+        <item>未知</item>
+        <item>金银木</item>
+        <item>未知</item>
+        <item>梧桐</item>
+        <item>紫叶李</item>
+        <item>石榴</item>
+        <item>紫荆</item>
+        <item>未知</item>
+        <item>丁香</item>
+　　    </string-array>
+
+</resources>

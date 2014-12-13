@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="lfsPic">
+        <item>@drawable/l1</item>
+        <item>@drawable/l2</item>
+        <item>@drawable/l3</item>
+        <item>@drawable/l4</item>
+        <item>@drawable/l5</item>
+        <item>@drawable/l6</item>
+        <item>@drawable/l7</item>
+        <item>@drawable/l8</item>
+        <item>@drawable/l9</item>
+        <item>@drawable/l10</item>
+        <item>@drawable/l11</item>
+        <item>@drawable/l12</item>
+        <item>@drawable/l13</item>
+        <item>@drawable/l14</item>
+        <item>@drawable/l15</item>
+    </string-array>
+
+</resources>
